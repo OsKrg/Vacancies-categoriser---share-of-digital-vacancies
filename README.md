@@ -6,4 +6,4 @@ The original script was written for the airline industry, with this particular s
 
 # Getting the data to categorise 
 
-The data was gathered through web scraping of company career websites and/or job portals. One should be chosen to avoid double counting.
+The data was gathered through web scraping of company career websites and/or job portals. One source should be chosen to avoid double counting.
