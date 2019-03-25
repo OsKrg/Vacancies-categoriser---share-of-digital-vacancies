@@ -1,4 +1,4 @@
-# Finding the share of digital vacancies of a company 
+# Calculating the share of digital vacancies of a company 
 
 Sript on Jupyter Notebooks to automatically categorise job vacancies on whether they are digital, management or both based on a list of keywords. The categoriser gives the share of digital vacancies as well as the share of digital management vacancies. This helps gauge the extent to which an organization is recruiting digital talent in-house. 
 
